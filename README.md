@@ -81,8 +81,6 @@ Each `metadata_featuresN_oneworm.hdf5` file contains the following datasets:
 
 **Behavioral State Flags:**
 - `motion_mode` - Forward (1), paused (0), or backward (-1) locomotion
-- `food_region` - Inside (1), edge (0), or outside (-1) the odor patch
-- `turn` - Turn event detection
 
 ---
 
