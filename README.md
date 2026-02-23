@@ -54,11 +54,6 @@ Each `metadata_featuresN_oneworm.hdf5` file contains the following datasets:
 | `neck_x` | (N,) | X-coordinate of worm neck |
 | `neck_y` | (N,) | Y-coordinate of worm neck |
 
-### Chemotaxis-Specific Datasets
-
-| Dataset | Shape | Description |
-|---------|-------|-------------|
-| `food_cnt_coord` | (M, 2) | **Odor patch boundary coordinates** - Defines the contour of the odor/food source region used for chemotaxis analysis |
 
 ### Time Series Features (Present in Most Files)
 
